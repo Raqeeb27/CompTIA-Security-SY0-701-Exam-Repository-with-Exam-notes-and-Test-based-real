@@ -1,5 +1,3 @@
-Chapter - 1 
-
 **CompTIA Security+ SY0-701 exam - Satender Kumar**
 1.1 Categories of Security Controls
 **1. Technical Controls**
