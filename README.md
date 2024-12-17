@@ -1,5 +1,5 @@
 **CompTIA Security+ SY0-701 exam - Satender Kumar**
-1.1 Categories of Security Controls
+1.1 Categories of Security Controls 
 **1. Technical Controls**
 Technical controls (also known as logical controls) are implemented through technology and are used to protect systems and data. They rely on hardware, software, and technical mechanisms to prevent or detect security threats.
 Examples:
